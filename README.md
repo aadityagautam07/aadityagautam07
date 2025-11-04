@@ -1,7 +1,7 @@
 <!-- Animated Typing Header -->
 <p align="center">
   <a href="https://github.com/aadityagautam07">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aaditya+Gautam!;Data+Analyst+%7C+Python+Developer+%7C+MCA+(Big+Data+Analytics);Turning+Data+into+Insights+%26+Solutions!" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aaditya+Gautam!;Data+Analyst+%7C+Python+Developer+%7C+MCA+(Big+Data+Analytics);Turning+Data+into+Insights+%26+Solutions!" alt="Typing Animation">
   </a>
 </p>
 
